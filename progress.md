@@ -22,3 +22,12 @@ Things Left:
 - Shift buttons and navs
 - Add Color to bottom nav
 - Add spacing
+
+**July 17th 2020 - Day 3**
+- Top header complete
+- buttons and logo aligned
+- decoration and design of top nav done
+
+Things Left: 
+- Shape sign on button
+- Get bottom header done
