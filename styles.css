@@ -1,3 +1,4 @@
+
 .google-picture {
   padding: 250px;
   display: block;
@@ -58,6 +59,7 @@ div.topnav {
   top: 20px;
   left: 15px;
   word-spacing: 7px;
+  cursor: pointer;
 }
 
 div.topnav-right {
@@ -65,6 +67,7 @@ div.topnav-right {
   top: 25px;
   right: 15px;
   word-spacing: 7px;
+  cursor: pointer;
 }
 
 .sign-in {
@@ -77,6 +80,7 @@ div.topnav-right {
   outline: none;
   background-color: #4285f4;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  cursor: pointer;
 }
 
 a {
@@ -95,10 +99,37 @@ a:visited {
   text-decoration: none;
 }
 
-.footer-right{
-  left: 0px;
-  bottom: 0px;
+footer{
+  position: fixed;
+  bottom: 0;
+  height: 45px;
   width: 100%;
+  
+}
+
+.footer-left {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 40px;
+  width: 50%;
+  font-size: 25px;
+  text-align: left;
   background-color: #DCDCDC;
   color: black;
+  cursor: pointer;
+  
+}
+
+.footer-right {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 40px;
+  width: 50%;
+  font-size: 25px;
+  text-align: right;
+  background-color: #DCDCDC;
+  color: black;
+  cursor: pointer;
 }
