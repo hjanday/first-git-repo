@@ -12,3 +12,13 @@ Things Left:
 - Move the logo and searchbar closer
 - Add the top and bottom nav-bar
 - Top sign in button
+
+
+**July 16th 2020 - Day 2**
+- Centered and laid out logo and bar
+- Got the upper nav buttons ready
+
+Things Left:
+- Shift buttons and navs
+- Add Color to bottom nav
+- Add spacing
