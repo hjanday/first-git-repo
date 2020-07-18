@@ -27,8 +27,4 @@ Things Left:
 - Top header complete
 - buttons and logo aligned
 - decoration and design of top nav done
-
-Things Left: 
 - Shape sign on button
-- Get bottom header done
-
