@@ -28,7 +28,3 @@ Things Left:
 - buttons and logo aligned
 - decoration and design of top nav done
 - Shape sign on button
-- footer done
-
-Things Left:
-- none, all done! woot
